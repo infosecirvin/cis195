@@ -1,2 +1,2 @@
 # cis195
-Content for CIS 195
+Content for Cabrillo College CIS 195
